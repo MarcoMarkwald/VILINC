@@ -1,0 +1,9 @@
+dgl==2.4.0+cu121
+matplotlib==3.10.8
+networkx==3.4.2
+numpy==2.4.1
+Pillow==12.1.0
+scikit_learn==1.8.0
+torch==2.6.0
+tqdm==4.67.1
+transformers==4.49.0
