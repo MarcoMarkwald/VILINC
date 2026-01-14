@@ -14,8 +14,8 @@ patterns and the limited availability of labeled training data. Conventional gra
 learning methods are not explicitly designed for imbalanced settings and often
 fail to generalize class-specific patterns from sparse and heterogeneous examples.
 To address these challenges, we propose VI-LINC, a novel approach for visual
-representation learning on graphs, tailored to imbalanced node classification. VI-
-LINC introduces a structured visual representation of local graph neighborhoods
+representation learning on graphs, tailored to imbalanced node classification. 
+VI-LINC introduces a structured visual representation of local graph neighborhoods
 as a basis for forming class-specific pattern clusters in a visual embedding space,
 improving class-discriminative pattern extraction and generalization. Extensive
 experiments on three datasets, including real-world and synthetic data, demon-
