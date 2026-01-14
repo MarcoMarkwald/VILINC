@@ -1,7 +1,7 @@
-# VI_LINC
+# VI-LINC
 ---
 We provide our code to support the reproducibility of results
-presented in the VI_Linc paper. However, we do not share models
+presented in the VI-Linc paper. However, we do not share models
 or datasets. The sources of the datasets we used are referenced 
 in the paper.
 
